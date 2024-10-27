@@ -22,6 +22,26 @@ mod chapter10_2;
 mod chapter10_3;
 mod chapter10_4;
 mod chapter10_5;
+mod chapter11_1;
+mod chapter11_2;
+mod chapter11_3;
+mod chapter12_1;
+mod chapter12_2;
+mod chapter12_3;
+mod chapter13_1;
+mod chapter13_2;
+mod chapter14_1;
+mod chapter15;
+mod chapter16_1;
+mod chapter16_2;
+mod chapter16_3;
+mod chapter17_1;
+mod chapter17_2;
+mod chapter17_3;
+mod chapter18_1;
+mod chapter18_2;
+mod chapter19;
+mod chapter20_1;
 
 fn main() {
     // chapter03::test();
